@@ -1,0 +1,11 @@
+echo "# Coursera_Capstone" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mehediku/Coursera_Capstone.git
+git push -u origin master
+
+Client ID
+1ZJ2GLKDMK22RZK5CHZJZPZN1POXJ5D5DB11ZIICVG4BDE1B
+Client Secret
+JIQVSFJLPN50VL20SI4O3SFCPRA05XHISWYRJBWWO2NZHMTK
